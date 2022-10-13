@@ -1,7 +1,10 @@
 #include <stdio.h>
 /**
  * main - Entry
- * Return : Always 0
+ *
+ * Description - Script to put string
+ *
+ * Return : Always 0 (success)
  */
 int main(void)
 {
